@@ -12,7 +12,3 @@ My chatbot using sequence-to-sequence architecture wich have Encoder and Decoder
 
 There is two different model that i'm deploying, the first one is the model who have good performance in bleu score, the second model is the best model in hyperparameter tunning process
 
-Deploy Services 🚀
-I'm using droplet from Digital Ocean with a little addition in memory. You can access my deployed model through this link :
-• First Model
-• Second Model
